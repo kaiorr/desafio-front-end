@@ -1,13 +1,7 @@
-<h1 align="center"> Kaio Ribeiro 💻</h1> 
+<h1 align="center" style="background-color: #FFF; padding:10px">
+  <img src="https://hubconexa.com/wp-content/uploads/2019/05/logo-conexa.svg" alt="conexa labs">
+</h1> 
 
-<h1 align="center">
-
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaio-ribeiro-310123150/)](https://www.linkedin.com/in/kaio-ribeiro-310123150/)
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Kaio54372832)](https://twitter.com/Kaio54372832)
-  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562991780038&text=Oi,%20Tudo%20bem?)](https://api.whatsapp.com/send?phone=5562991780038&text=Oi,%20Tudo%20bem?)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaio.rocharibeiro@gmail.com)](mailto:kaio.rocharibeiro@gmail.com)
-
-</h1>
 
 > ## O desafio 📢
 
@@ -48,5 +42,3 @@ O layout e a estilização devem seguir a risca os protótipos e o style guide, 
   * ... pois avaliaremos tudo isso!
 
   ----
-
-  <p align="center">Feito com ❤️️ abastecido por ☕</p>

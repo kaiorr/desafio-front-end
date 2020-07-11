@@ -1,32 +1,19 @@
-# Desafio \<front>developer\</end> ConexaLabs 2019
+<h1 align="center"> Kaio Ribeiro 💻</h1> 
 
-Quer fazer parte da transformação do campo ~~escrevendo~~ codando o futuro do agronegócio?
+<h1 align="center">
 
-Se deseja participar do nosso processo seletivo, siga as instruções deste desafio e execute os seguintes passos: 
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaio-ribeiro-310123150/)](https://www.linkedin.com/in/kaio-ribeiro-310123150/)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Kaio54372832)](https://twitter.com/Kaio54372832)
+  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562991780038&text=Oi,%20Tudo%20bem?)](https://api.whatsapp.com/send?phone=5562991780038&text=Oi,%20Tudo%20bem?)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaio.rocharibeiro@gmail.com)](mailto:kaio.rocharibeiro@gmail.com)
 
-* Nos mande sua resolução em um *pull request* neste repositório.
+</h1>
 
-* Deixe a aplicação disponível publicamente em algum host ([GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/),  [Firebase Hosting](https://firebase.google.com/docs/hosting), [Azure](https://azure.microsoft.com/pt-br/services/app-service/web/), ou qualquer um de sua preferência) para testes. 
+> ## O desafio 📢
 
-* Por último, envie um email para [renatto.machado@hubconexa.com](mailto:renatto.machado@hubconexa.com) com seu CV anexado e o link da aplicação;
+Será implementado uma aplicação web **responsiva** que consulta os dados de empresas em uma API, armazena no LocalStorage e mostra no mapa o endereço da empresa selecionada.
 
-  
-
-# Sobre a Conexa
-
-A [Conexa](http://hubconexa.com/) é um hub de inovação que vive o agronegócio e é protagonista em sua transformação e unimos pessoas que compartilham a crença de que o mundo pode ser mais sustentável e que o trabalho pode ser mais prazeroso.
-
-A equipe da Conexa Labs tem o propósito de tornar o agro mais simples, usando o que há de mais avançado em tecnologia para construir produtos e ferramentas que conectam pessoas e negócios aos resultados desejados.
-
-
-
-# O desafio
-
-Você implementará uma aplicação web **responsiva** que consulta os dados de empresas em uma API, armazena no LocalStorage e mostra no mapa o endereço da empresa selecionada.
-
-
-
-## Requisitos
+> ## Requisitos 📝
 
 1. Consulta de empresas pelo CNPJ;
    1. O número do CNPJ deve ser válido antes de executar a requisição na API;
@@ -35,17 +22,13 @@ Você implementará uma aplicação web **responsiva** que consulta os dados de 
 2. Mostrar uma lista em cards das empresas consultadas;
 3. Mostrar os dados da empresa e a localização no mapa;
 
-
-
-## Protótipos
+> ## Protótipos 🖼
 
 [Neste link](https://invis.io/Q6T6JI44FTY#/376025753_pesquisa) você encontrará os protótipos *navegáveis* feitos no Invision e [aqui](https://invis.io/Q6T6JI44FTY#/376033742_style_Guide) você poderá ver o style guide.
 
 O layout e a estilização devem seguir a risca os protótipos e o style guide, tirando isso, você tem oportunidade de mostrar todo seu talento e criatividade.
 
-
-
-## Recomendações
+> ## Recomendações ✅
 
 * Utilize um destes três frameworks: VueJS, React ou Angular;
 * Utilize SASS ou LESS;
@@ -63,3 +46,7 @@ O layout e a estilização devem seguir a risca os protótipos e o style guide, 
   * Manutenabilidade;
   * Testes Unitários (quando necessário)
   * ... pois avaliaremos tudo isso!
+
+  ----
+
+  <p align="center">Feito com ❤️️ abastecido por ☕</p>

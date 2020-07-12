@@ -1,4 +1,6 @@
-<h1 align="center">Desafio front-end</h1> 
+<h1 align="center" style="background-color: #FFF; padding:10px">
+  <img src="./logo-conexa.svg" alt="conexa labs">
+</h1> 
 
 
 > ## O desafio 📢
